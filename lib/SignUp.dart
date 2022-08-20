@@ -16,6 +16,7 @@ class SignUpWeidget extends StatefulWidget {
 
   @override
   _SignUpWeidgetState createState() => _SignUpWeidgetState();
+
 }
 
 class _SignUpWeidgetState extends State<SignUpWeidget> {
